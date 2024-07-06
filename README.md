@@ -1,2 +1,2 @@
 # book-my-consultation
-IIIT Project
+IIIT Bangalore capstone project.
